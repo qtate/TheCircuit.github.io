@@ -1,0 +1,44 @@
+/*home page */
+/* changes to the body (main part of page) */
+body {
+background-color: #00A8E8;
+color: #FFFFFF;
+}
+
+		/*textwrap*/
+img {
+float: right;
+margin: 10px;
+}
+
+/* changes to the header */
+header {
+color: #FFFFFF;
+}
+
+#places {
+color: #FFFFFF;
+}
+
+a {
+color: #FFFFFF;
+}
+
+a: hover {
+color:#00171F;
+text-decoration: underline;
+}
+
+/* changes to the footer */
+footer {
+background-color: #003459;
+border-top: solid 7px #00171F;
+border-bottom: solid 7px #00171F;
+text-align: center;
+color: #FFFFFF
+}
+
+/* bio pages */
+.DPic {
+border-radius: 100%;
+}
